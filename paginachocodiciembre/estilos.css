@@ -1,0 +1,39 @@
+h1 {
+    color:mediumpurple;
+    font-family: monospace;
+    font-size: 100px;
+    background-image:url("onititulo.jpg");
+}
+h3 {
+    color: mediumpurple;
+}
+h4 {
+    color: mediumpurple;
+}
+p {
+    font-size: 20px;
+
+}
+a {
+    font-size: 20px;
+
+}
+body {
+    background-image: url("Negroazul.jpg");
+
+}
+.contenedor {
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+}
+.oni {
+    display: flex;
+    margin-top: 20px;
+}
+* {
+    color: white;
+}
+
+
+
